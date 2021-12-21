@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: I compared the time for all, for bubble the random took longer than all the others but the sorted in comparison was a huge difference
+
+sort2 uses: merge sort
+
+How do you know?: the time for the sorted and the time for the random were very similar, which makes sense since they are theta, but it was lower than sort3
+
+sort3 uses: selection sort
+
+How do you know?: Similarly, the time for the sorted and the time for the random were very similar, again theta but higher than sort 2
